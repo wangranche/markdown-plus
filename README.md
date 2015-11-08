@@ -169,3 +169,5 @@ MIT
 ![Markdown Plus](screenshot2.png)
 
 ![Markdown Plus](screenshot3.png)
+
+感谢 原开发团队的贡献 [Github地址](https://github.com/tylingsoft/markdown-plus)
